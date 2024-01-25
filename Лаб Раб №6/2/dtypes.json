@@ -1,0 +1,1 @@
+{"askPrice": "uint32", "mileage": "uint32", "isNew": "bool", "vf_BasePrice": "float32", "vf_DisplacementCC": "float32", "vf_Doors": "float32", "vf_EngineHP": "float32", "vf_ModelYear": "float32", "vf_TopSpeedMPH": "float32", "vf_TransmissionStyle": "category"}
